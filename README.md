@@ -1,5 +1,5 @@
 <h1> E-Commerce Website</h1>
-# Released Version
+# Released Version <br/>
 [![Release](https://badgen.net/github/release/mayphyusinthant/e-commerce-website?include_prereleases&label=Release)](https://github.com/mayphyusinthant/e-commerce-website/releases)
 
 # Languages
