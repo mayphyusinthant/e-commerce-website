@@ -1,4 +1,4 @@
-<h1> E-Commerce Website</h1>
+<h1>✨ E-Commerce Website ✨</h1>
 
 # Languages
 [![PHP](https://img.shields.io/badge/PHP-blue)](https://www.php.net/)
@@ -8,7 +8,7 @@
 # License
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 <br/>
-Capital e-commerce website is a seamless online grocery shopping platform where users can explore, order, and pay with ease, while admins efficiently manage the platform.
+✨Capital e-commerce website ✨is a seamless online grocery shopping platform where users can explore, order, and pay with ease, while admins efficiently manage the platform.
 This kind of e-commerce website is suitable for any business organization.
 Users can explore desired grocery products, do online ordering & online payment easily <br/> 
 Admins can manage products, categories, order and user accounts by doing required CRUD operations <br/> <br/> 
@@ -31,6 +31,6 @@ Admins can manage products, categories, order and user accounts by doing require
 &ensp;<b> Web Security: </b>Your safety is our priority. We implement robust web security measures to protect your information.<br/> 
 &ensp;<b> 24/7 Accessibility: </b> Enjoy round-the-clock access to our services, and find support through our dedicated customer support and FAQ page.<br/> <br/> 
 
-Join us on Capital E-Commerce – where simplicity meets sophistication in the world of online grocery shopping.
+✨✨✨Join us on Capital E-Commerce – where simplicity meets sophistication in the world of online grocery shopping.✨✨✨
 
 ![image](https://github.com/mayphyusinthant/e-commerce-website/assets/154217638/a02cd5ba-fb58-488e-994c-e62daae03b1b)
