@@ -1,7 +1,5 @@
 <h1> E-Commerce Website</h1>
-# Released Version <br/>
-[![Release](https://badgen.net/github/release/mayphyusinthant/e-commerce-website?include_prereleases&label=Release)](https://github.com/mayphyusinthant/e-commerce-website/releases)
-
+![Release](https://badgen.net/github/release/mayphyusinthant/e-commerce-website?include_prereleases&label=Release)
 # Languages
 [![PHP](https://img.shields.io/badge/PHP-blue)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/MySQL-blue)](https://www.mysql.com/)
