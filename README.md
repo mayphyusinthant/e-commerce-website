@@ -23,3 +23,5 @@ Admins can manage products, categories, order and user accounts by doing require
 &ensp;<b> 24/7 Accessibility: </b> Enjoy round-the-clock access to our services, and find support through our dedicated customer support and FAQ page.<br/> <br/> 
 
 Join us on Capital E-Commerce – where simplicity meets sophistication in the world of online grocery shopping.
+
+![image](https://github.com/mayphyusinthant/e-commerce-website/assets/154217638/a02cd5ba-fb58-488e-994c-e62daae03b1b)
