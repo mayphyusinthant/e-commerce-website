@@ -1,6 +1,6 @@
 <h1> E-Commerce Website</h1>
 # Released Version
-[![Release](https://img.shields.io/github/release/mayphyusinthant/e-commerce-website?include_releases&label=Release&style=flat-square&logo=github)](https://github.com/mayphyusinthant/attendance_mgmt_system/releases/tag/v1.0.0)
+[![Release](https://img.shields.io/github/release/casbin-net/Casbin.NET.svg)](https://github.com/mayphyusinthant/attendance_mgmt_system/releases/tag/v1.0.0)
 
 # Languages
 [![PHP](https://img.shields.io/badge/PHP-blue)](https://www.php.net/)
