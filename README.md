@@ -34,3 +34,4 @@ Admins can manage products, categories, order and user accounts by doing require
 ✨✨✨Join us on Capital E-Commerce – where simplicity meets sophistication in the world of online grocery shopping.✨✨✨
 
 ![image](https://github.com/mayphyusinthant/e-commerce-website/assets/154217638/a02cd5ba-fb58-488e-994c-e62daae03b1b)
+✨ Copyright [2024] [May Phyu Sin Thant]
