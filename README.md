@@ -1,4 +1,12 @@
 <h1> E-Commerce Website</h1>
+# Released Version
+[![Release](https://img.shields.io/github/release/mayphyusinthant/e-commerce-website?include_releases&label=Release&style=flat-square&logo=github)](https://github.com/mayphyusinthant/attendance_mgmt_system/releases/tag/v1.0.0)
+
+# Languages
+[![PHP](https://img.shields.io/badge/PHP-blue)](https://www.php.net/)
+[![MySQL](https://img.shields.io/badge/MySQL-blue)](https://www.mysql.com/)
+
+
 Capital e-commerce website is a seamless online grocery shopping platform where users can explore, order, and pay with ease, while admins efficiently manage the platform.
 This kind of e-commerce website is suitable for any business organization.
 Users can explore desired grocery products, do online ordering & online payment easily <br/> 
