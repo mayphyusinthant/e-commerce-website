@@ -1,0 +1,124 @@
+section.footer-section {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  background: white;
+}
+
+body {
+  background-image: white;
+}
+nav,
+main {
+  height: auto;
+}
+
+aside.div1 main.div2 aside.bill-slip main.customer-info {
+  height: auto;
+  background: white;
+  flex-grow: 1;
+}
+
+main.div2 {
+  flex-grow: 3;
+}
+
+div.navbar-nav a.nav-link:hover {
+  background-color: #860c2e;
+  color: white;
+  text-decoration: bold;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+main li {
+  display: inline;
+  width: 100%;
+}
+
+table {
+  margin: 2px;
+  border: 1px;
+  border-spacing: 1px;
+}
+
+td {
+  background: white;
+  border-collapse: collapse;
+  padding: 8px;
+}
+
+th {
+  color: #c0392b;
+  padding: 8px;
+}
+
+.order-form {
+  margin: 20px;
+}
+
+.order-form h2 {
+  margin: 10px 0 10px 0;
+  padding: 0 0 5px 0;
+  border-bottom: 1px solid #ddd;
+  font-size: 18px;
+  font-weight: bold;
+  color: #c0392b;
+}
+
+form label {
+  display: block;
+  margin-top: 10px;
+  color: #555;
+}
+
+input[type="text"],
+input[type="password"],
+textarea,
+select {
+  font-family: Arial, Helvetica, sans-serif;
+  border: 1px solid #ddd;
+  padding: 6px;
+  width: 300px;
+  background: #fff;
+}
+
+textarea {
+  height: 100px;
+}
+
+input[type="submit"] {
+  padding: 10px 24px;
+  margin-right: 10px;
+}
+
+.msg {
+  background: white;
+  text-align: left;
+  padding: 10px;
+  margin: 50px 20px;
+}
+
+.msg a {
+  color: #eee;
+  border-bottom: 1px dotted #fff;
+}
+
+.search {
+  margin-top: 20px;
+}
+.search input[type="text"] {
+  width: 180px;
+  margin-left: 8px;
+}
+.search input[type="submit"] {
+  height: auto;
+  cursor: pointer;
+  background: transparent url(../images/search.png) no-repeat center center;
+  border: 0 none;
+  padding: 0;
+  margin: 0 0 0 -5px;
+}

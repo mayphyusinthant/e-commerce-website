@@ -1,0 +1,159 @@
+html {
+  background: #95a5a6;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: #fff;
+}
+
+h1 {
+  padding: 10px;
+  font-size: 21px;
+  background: #860c2e;
+  margin: 0;
+  color: #fff;
+}
+
+form {
+  margin: 20px;
+}
+
+form label {
+  display: block;
+  margin-top: 10px;
+  color: #555;
+}
+
+textarea {
+  height: 100px;
+}
+
+input[type="submit"] {
+  padding: 10px 24px;
+  margin-right: 10px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul.menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: #16a085;
+}
+
+a:hover {
+  background-color: #860c2e;
+  color: white;
+  text-decoration: bold;
+}
+
+ul.content {
+  list-style: none;
+  margin: 20px;
+  padding: 0;
+  line-height: 1.5em;
+}
+
+ul.content li {
+  padding: 10px;
+  border: 1px solid #ddd;
+  margin-bottom: 10px;
+  overflow: hidden;
+}
+
+ul.content .order {
+  float: left;
+  width: 300px;
+  border-right: 1px dotted #ddd;
+  margin-right: 20px;
+}
+
+ul.content .item {
+  float: left;
+  width: 500px;
+}
+
+ul.content b,
+ul.content i,
+ul.content span {
+  display: block;
+}
+
+ul.content .item a {
+  font-weight: normal;
+  margin-right: 6px;
+}
+
+ul.content .item b {
+  border-bottom: 1px dotted #ddd;
+  line-height: 1.8em;
+}
+
+ul.content li.delivered {
+  color: #999;
+}
+
+li.delivered .order b,
+li.delivered .order i {
+  text-decoration: line-through;
+}
+
+a.new {
+  float: left;
+}
+
+ul.list {
+  list-style: none;
+  margin: 20px;
+  padding: 0;
+}
+
+ul.list li {
+  overflow: hidden;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+
+ul.list b {
+  font-size: 14px;
+  margin-bottom: 5px;
+  color: #2980b9;
+}
+
+ul.list span {
+  color: #8e44ad;
+}
+
+ul.list img {
+  margin-left: 20px;
+}
+
+ul.list a {
+  color: #2980b9;
+}
+
+ul.list a.del {
+  color: #d35400;
+}
+
+ul.list a.remark {
+  color: #da1254;
+}
+
+a.new {
+  display: block;
+  padding: 8px 0;
+  text-align: center;
+  width: 160px;
+  margin: 10px;
+  color: #fff;
+  background: #860c2e;
+  border: 1px solid #ccc;
+  text-decoration: none;
+}
