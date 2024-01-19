@@ -31,7 +31,25 @@ Admins can manage products, categories, order and user accounts by doing require
 &ensp;<b> Web Security: </b>Your safety is our priority. We implement robust web security measures to protect your information.<br/> 
 &ensp;<b> 24/7 Accessibility: </b> Enjoy round-the-clock access to our services, and find support through our dedicated customer support and FAQ page.<br/> <br/> 
 
-✨✨✨Join us on Capital E-Commerce – where simplicity meets sophistication in the world of online grocery shopping.✨✨✨
+✨✨✨Join us on Capital E-Commerce – where simplicity meets sophistication in the world of online grocery shopping.✨✨✨<br/>
+<h4> E-Commerce Website Home Page</h4>
+
+![image](https://github.com/mayphyusinthant/e-commerce-website/assets/154217638/6a7a6aac-00eb-459d-a023-490bcd0151c3)
+
+<h4> Product Showcase</h4>
+
+![image](https://github.com/mayphyusinthant/e-commerce-website/assets/154217638/a3d55546-1543-420d-85f4-b8e0cffe8950)
+![image](https://github.com/mayphyusinthant/e-commerce-website/assets/154217638/17216d8c-8026-4414-b2a8-4a4451c4ff00)
+
+<h4> User Profile </h4>
+
+![image](https://github.com/mayphyusinthant/e-commerce-website/assets/154217638/96f205f0-f9cd-4165-bf41-d81fe1e0c48c)
+
+<h4> Your Order </h4>
+
+![image](https://github.com/mayphyusinthant/e-commerce-website/assets/154217638/883a1692-663b-432e-a5de-1c62fb6fd64b)
+
+<h4> Use Case Diagram </h4>
 
 ![image](https://github.com/mayphyusinthant/e-commerce-website/assets/154217638/a02cd5ba-fb58-488e-994c-e62daae03b1b)
 ✨ Copyright [2024] [May Phyu Sin Thant]
